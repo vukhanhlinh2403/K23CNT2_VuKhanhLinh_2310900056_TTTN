@@ -1,0 +1,404 @@
+# CƠ SỞ VẬT CHẤT – TFT ACADEMY
+
+## 1. Tổng quan
+
+TFT Academy xây dựng hệ thống cơ sở vật chất nhằm phục vụ hoạt động giảng dạy, học tập, thực hành, nghiên cứu và sinh hoạt của sinh viên.
+
+Cơ sở vật chất được định hướng hỗ trợ mô hình đào tạo kết hợp giữa lý thuyết và thực hành, giúp sinh viên có môi trường học tập và rèn luyện phù hợp với ngành học.
+
+Các nhóm cơ sở vật chất gồm:
+
+* Khu giảng đường.
+* Phòng học chuyên môn.
+* Phòng thực hành.
+* Phòng máy tính.
+* Thư viện và tài nguyên học tập.
+* Khu vực thể thao.
+* Khu sinh hoạt sinh viên.
+* Hệ thống công nghệ hỗ trợ học tập.
+
+Thông tin về số lượng phòng, thiết bị, diện tích và địa điểm cụ thể cần được cập nhật theo dữ liệu chính thức của TFT Academy.
+
+---
+
+# 2. Khu giảng đường
+
+Khu giảng đường là nơi tổ chức các hoạt động giảng dạy, học tập và các chương trình học tập tập trung.
+
+Các khu vực có thể bao gồm:
+
+* Phòng học lý thuyết.
+* Phòng học chuyên đề.
+* Phòng học nhóm.
+* Phòng tổ chức hội thảo.
+* Phòng tổ chức các hoạt động học thuật.
+
+Phòng học được sử dụng cho:
+
+* Các tiết học lý thuyết.
+* Thảo luận nhóm.
+* Thuyết trình.
+* Workshop.
+* Hội thảo.
+* Các hoạt động học tập khác.
+
+**Thông tin cần cập nhật chính thức:**
+
+* Số lượng khu giảng đường.
+* Số lượng phòng học.
+* Sức chứa từng phòng.
+* Diện tích phòng.
+* Thiết bị được trang bị.
+* Địa điểm cụ thể.
+
+---
+
+# 3. Phòng thực hành
+
+Phòng thực hành phục vụ các môn học yêu cầu sinh viên thực hành và áp dụng kiến thức vào các bài tập hoặc dự án thực tế.
+
+Tùy theo ngành đào tạo, phòng thực hành có thể phục vụ:
+
+* Thực hành công nghệ thông tin.
+* Lập trình.
+* Cơ sở dữ liệu.
+* Phát triển phần mềm.
+* Thiết kế và sáng tạo nội dung.
+* Truyền thông.
+* Các môn học chuyên ngành khác.
+
+Hoạt động tại phòng thực hành có thể bao gồm:
+
+* Thực hành theo bài học.
+* Làm bài tập.
+* Thực hiện dự án.
+* Làm việc nhóm.
+* Thực hành kỹ năng chuyên môn.
+
+**Danh sách phòng thực hành:**
+Cập nhật theo danh mục cơ sở vật chất chính thức của TFT Academy.
+
+---
+
+# 4. Phòng máy tính
+
+Phòng máy tính phục vụ các môn học và hoạt động yêu cầu sử dụng máy tính.
+
+Các hoạt động có thể bao gồm:
+
+* Học lập trình.
+* Thực hành phần mềm.
+* Thực hành cơ sở dữ liệu.
+* Học thiết kế.
+* Chỉnh sửa hình ảnh và video.
+* Thực hành các công cụ phục vụ chuyên ngành.
+* Làm bài tập và dự án.
+
+## 4.1. Thiết bị
+
+Phòng máy tính có thể được trang bị:
+
+* Máy tính.
+* Màn hình.
+* Bàn phím và chuột.
+* Thiết bị mạng.
+* Máy chiếu hoặc màn hình trình chiếu.
+* Các phần mềm phục vụ giảng dạy.
+
+**Số lượng phòng máy:** 3.
+
+**Số lượng máy tính:** 147.
+
+**Cấu hình máy tính:**  Core Ultra 9 285K, NVIDIA GeForce RTX 5090, 2TB NVMe PCIe Gen 4.0.
+
+**Phần mềm được cài đặt:** CẦN CẬP NHẬT.
+
+Chatbot không được tự suy đoán cấu hình máy tính hoặc số lượng thiết bị nếu chưa có dữ liệu xác nhận.
+
+---
+
+# 5. Thư viện và tài nguyên học tập
+
+Thư viện hỗ trợ sinh viên trong quá trình học tập, nghiên cứu và tìm kiếm tài liệu.
+
+Các tài nguyên có thể bao gồm:
+
+* Giáo trình.
+* Sách chuyên ngành.
+* Tài liệu tham khảo.
+* Tài liệu học tập điện tử.
+* Tài liệu nghiên cứu.
+* Tài nguyên trực tuyến.
+
+Các dịch vụ thư viện có thể bao gồm:
+
+* Đọc tài liệu tại thư viện.
+* Tra cứu tài liệu.
+* Mượn và trả tài liệu.
+* Sử dụng tài nguyên điện tử.
+* Hỗ trợ tìm kiếm tài liệu.
+
+**Địa điểm thư viện:** CẦN CẬP NHẬT.
+
+**Thời gian hoạt động:** CẦN CẬP NHẬT.
+
+**Số lượng tài liệu:** CẦN CẬP NHẬT.
+
+**Dịch vụ thư viện:** CẦN CẬP NHẬT.
+
+---
+
+# 6. Khu thể thao
+
+Khu thể thao hỗ trợ sinh viên rèn luyện sức khỏe và tham gia các hoạt động thể chất.
+
+Các khu vực thể thao có thể bao gồm:
+
+* Sân bóng đá.
+* Sân bóng chuyền.
+* Sân cầu lông.
+* Sân bóng rổ.
+* Khu vực tập luyện thể chất.
+* Các khu vực thể thao khác.
+
+Các hoạt động có thể bao gồm:
+
+* Tập luyện thể thao.
+* Giao lưu giữa sinh viên.
+* Thi đấu nội bộ.
+* Giải thể thao.
+* Hoạt động rèn luyện sức khỏe.
+
+**Danh sách cơ sở thể thao chính thức:** CẦN CẬP NHẬT.
+
+**Địa điểm:** CẦN CẬP NHẬT.
+
+**Thời gian sử dụng:** CẦN CẬP NHẬT.
+
+---
+
+# 7. Khu sinh hoạt sinh viên
+
+Khu sinh hoạt sinh viên tạo không gian để sinh viên nghỉ ngơi, giao lưu và tham gia các hoạt động tập thể.
+
+Có thể bao gồm:
+
+* Khu vực nghỉ ngơi.
+* Khu vực sinh hoạt chung.
+* Không gian làm việc nhóm.
+* Không gian tổ chức câu lạc bộ.
+* Khu vực tổ chức sự kiện sinh viên.
+
+Các khu vực này có thể được sử dụng cho:
+
+* Sinh hoạt câu lạc bộ.
+* Họp nhóm.
+* Làm việc nhóm.
+* Giao lưu sinh viên.
+* Tổ chức các hoạt động ngoại khóa.
+
+**Danh sách khu vực cụ thể:** CẦN CẬP NHẬT.
+
+---
+
+# 8. Hệ thống hỗ trợ học tập
+
+TFT Academy có thể sử dụng các hệ thống công nghệ để hỗ trợ quá trình học tập và quản lý sinh viên.
+
+Các hệ thống có thể bao gồm:
+
+### 8.1. Cổng thông tin sinh viên
+
+Hỗ trợ sinh viên tiếp cận các thông tin liên quan đến:
+
+* Thông tin cá nhân.
+* Lịch học.
+* Kết quả học tập.
+* Thông báo.
+* Các dịch vụ dành cho sinh viên.
+
+### 8.2. Hệ thống học trực tuyến
+
+Có thể hỗ trợ:
+
+* Truy cập tài liệu học tập.
+* Xem nội dung bài học.
+* Làm bài tập.
+* Nộp bài.
+* Theo dõi tiến độ học tập.
+
+### 8.3. Thư viện điện tử
+
+Có thể hỗ trợ sinh viên:
+
+* Tra cứu tài liệu.
+* Tìm kiếm giáo trình.
+* Truy cập tài liệu điện tử.
+* Tìm kiếm tài nguyên phục vụ nghiên cứu.
+
+### 8.4. Hệ thống quản lý học tập
+
+Có thể hỗ trợ:
+
+* Quản lý lớp học.
+* Quản lý môn học.
+* Theo dõi kết quả học tập.
+* Quản lý bài tập.
+* Theo dõi tiến độ học tập.
+
+**Tên và đường dẫn chính thức của các hệ thống:** CẦN CẬP NHẬT.
+
+---
+
+# 9. Internet và kết nối
+
+Hệ thống mạng và Internet hỗ trợ sinh viên trong quá trình học tập, nghiên cứu và sử dụng các hệ thống trực tuyến.
+
+Các khu vực học tập có thể được cung cấp:
+
+* Kết nối Internet.
+* Mạng Wi-Fi.
+* Kết nối mạng phục vụ phòng máy.
+* Hệ thống mạng phục vụ giảng dạy.
+
+**Thông tin đăng nhập:** Không cung cấp thông tin tài khoản hoặc mật khẩu trong Knowledge Base công khai.
+
+---
+
+# 10. Thiết bị hỗ trợ giảng dạy
+
+Các phòng học có thể được trang bị các thiết bị hỗ trợ giảng dạy như:
+
+* Máy chiếu.
+* Màn hình trình chiếu.
+* Máy tính giảng viên.
+* Hệ thống âm thanh.
+* Bảng viết.
+* Thiết bị kết nối Internet.
+* Các thiết bị hỗ trợ giảng dạy khác.
+
+Danh sách thiết bị và số lượng cụ thể cần căn cứ vào dữ liệu cơ sở vật chất chính thức.
+
+---
+
+# 11. Không gian học tập nhóm
+
+Không gian học tập nhóm hỗ trợ sinh viên thực hiện các hoạt động:
+
+* Thảo luận.
+* Làm bài tập nhóm.
+* Thực hiện dự án.
+* Thuyết trình.
+* Trao đổi kiến thức.
+* Chuẩn bị bài học.
+
+**Địa điểm và số lượng khu vực học tập nhóm:** CẦN CẬP NHẬT.
+
+---
+
+# 12. Hỗ trợ sinh viên sử dụng cơ sở vật chất
+
+Sinh viên cần sử dụng cơ sở vật chất đúng mục đích và tuân thủ quy định của TFT Academy.
+
+Sinh viên có trách nhiệm:
+
+* Giữ gìn tài sản chung.
+* Sử dụng thiết bị đúng hướng dẫn.
+* Không tự ý thay đổi hoặc tháo lắp thiết bị.
+* Giữ vệ sinh khu vực học tập.
+* Tuân thủ nội quy phòng học và phòng thực hành.
+* Báo cho bộ phận phụ trách khi phát hiện thiết bị hư hỏng.
+
+---
+
+# 13. Câu hỏi thường gặp
+
+### TFT Academy có phòng máy tính không?
+
+TFT Academy có hệ thống cơ sở vật chất phục vụ hoạt động học tập và thực hành. Thông tin chi tiết về số lượng phòng máy và thiết bị cần căn cứ vào dữ liệu được cập nhật trong Knowledge Base.
+
+### TFT Academy có thư viện không?
+
+Thư viện là một hạng mục cơ sở vật chất phục vụ nhu cầu học tập và nghiên cứu. Thông tin về địa điểm, thời gian hoạt động và dịch vụ cần được cập nhật theo thông tin chính thức.
+
+### Sinh viên có được sử dụng phòng máy không?
+
+Sinh viên có thể sử dụng phòng máy phục vụ các hoạt động học tập và thực hành theo lịch học và quy định của TFT Academy.
+
+### TFT Academy có khu thể thao không?
+
+Nhà trường có thể tổ chức các khu vực và hoạt động thể thao dành cho sinh viên. Danh sách sân và địa điểm cụ thể cần được cập nhật từ thông tin chính thức.
+
+### Trường có Wi-Fi không?
+
+Hệ thống mạng và Internet có thể được cung cấp để hỗ trợ hoạt động học tập. Thông tin về phạm vi Wi-Fi và cách truy cập cần được cập nhật theo hướng dẫn chính thức.
+
+### Sinh viên có thể học nhóm ở đâu?
+
+Sinh viên có thể sử dụng các không gian học tập nhóm hoặc khu vực sinh hoạt chung theo quy định của TFT Academy. Địa điểm cụ thể cần được cập nhật trong Knowledge Base.
+
+---
+
+# 14. Quy tắc trả lời của chatbot
+
+Khi trả lời các câu hỏi về cơ sở vật chất, chatbot phải ưu tiên thông tin đã được xác nhận trong Knowledge Base.
+
+Chatbot **không được tự suy đoán**:
+
+* Số lượng phòng.
+* Số lượng máy tính.
+* Cấu hình máy tính.
+* Diện tích phòng.
+* Số lượng sách.
+* Địa chỉ cụ thể.
+* Giờ mở cửa.
+* Tốc độ Internet.
+* Số lượng sân thể thao.
+* Tên phần mềm.
+* Tên hệ thống nội bộ.
+
+Nếu chưa có dữ liệu, chatbot nên trả lời:
+
+> "Hiện Knowledge Base của TFT Academy chưa có thông tin chi tiết về nội dung này. Bạn vui lòng theo dõi thông báo hoặc kênh thông tin chính thức của TFT Academy để biết thông tin cập nhật."
+
+---
+
+# 15. Từ khóa cần nhận diện
+
+Chatbot cần nhận diện các câu hỏi tương đương:
+
+* TFT Academy có cơ sở vật chất gì?
+* Trường có những phòng học nào?
+* Trường có phòng máy không?
+* Phòng máy có bao nhiêu máy?
+* Máy tính cấu hình như thế nào?
+* Trường có thư viện không?
+* Thư viện ở đâu?
+* Thư viện mở cửa lúc mấy giờ?
+* Trường có sân thể thao không?
+* Có sân bóng đá không?
+* Có sân cầu lông không?
+* Sinh viên có Wi-Fi không?
+* Wi-Fi trường dùng như thế nào?
+* Trường có phòng học nhóm không?
+* Có phòng thực hành không?
+* Phòng thực hành dùng cho ngành nào?
+* Trường có hệ thống học trực tuyến không?
+* Sinh viên xem tài liệu ở đâu?
+* Sinh viên sử dụng cơ sở vật chất như thế nào?
+
+---
+
+# 16. Trạng thái dữ liệu
+
+**Cơ sở đào tạo:** TFT Academy
+
+**Nhóm Knowledge:** Cơ sở vật chất
+
+**Mục đích:** Sử dụng cho chatbot tuyển sinh và tư vấn sinh viên.
+
+**Ngày cập nhật:** 28/09/2026
+
+**Trạng thái:** Dữ liệu khung/nội bộ, cần bổ sung thông tin cơ sở vật chất thực tế khi có dữ liệu xác nhận.
+
+**Nguyên tắc:** Không tự tạo số liệu hoặc thông tin cụ thể về cơ sở vật chất khi chưa có nguồn xác nhận.

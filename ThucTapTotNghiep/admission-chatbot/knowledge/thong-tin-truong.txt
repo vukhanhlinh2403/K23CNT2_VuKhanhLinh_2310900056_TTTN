@@ -1,0 +1,485 @@
+# THÔNG TIN TỔNG QUAN VỀ NHÀ TRƯỜNG – TFT ACADEMY
+
+## 1. Thông tin chung
+
+**Tên trường:** TFT Academy
+
+**Tên tiếng Anh:** TFT Academy
+
+**Tên viết tắt:** TFT Academy
+
+**Loại hình:** Cơ sở đào tạo
+
+**Địa chỉ:** CẦN CẬP NHẬT
+
+**Website chính thức:** CẦN CẬP NHẬT
+
+**Website tuyển sinh:** CẦN CẬP NHẬT
+
+**Email:** CẦN CẬP NHẬT
+
+**Số điện thoại:** CẦN CẬP NHẬT
+
+**Thời gian làm việc:** CẦN CẬP NHẬT
+
+---
+
+# 2. Giới thiệu về TFT Academy
+
+TFT Academy là cơ sở đào tạo hướng đến việc cung cấp môi trường học tập kết hợp giữa kiến thức chuyên môn, kỹ năng thực hành và các hoạt động phát triển cá nhân cho sinh viên.
+
+Mô hình đào tạo hướng đến việc giúp người học:
+
+* Xây dựng nền tảng kiến thức chuyên môn.
+* Phát triển kỹ năng thực hành.
+* Rèn luyện kỹ năng mềm.
+* Làm quen với môi trường làm việc thực tế.
+* Phát triển khả năng làm việc nhóm.
+* Phát triển tư duy giải quyết vấn đề.
+* Chủ động học tập và phát triển nghề nghiệp.
+
+Bên cạnh chương trình đào tạo chính khóa, TFT Academy có thể triển khai các hoạt động hỗ trợ sinh viên như:
+
+* Hoạt động câu lạc bộ.
+* Hoạt động học thuật.
+* Workshop.
+* Hội thảo.
+* Hoạt động hướng nghiệp.
+* Hoạt động kết nối doanh nghiệp.
+* Hoạt động văn hóa – văn nghệ.
+* Hoạt động thể thao.
+* Hoạt động tình nguyện.
+* Các hoạt động phát triển kỹ năng.
+
+Thông tin chi tiết về từng hoạt động được quản lý trong các Knowledge Base tương ứng.
+
+---
+
+# 3. Định hướng đào tạo
+
+TFT Academy định hướng kết hợp giữa kiến thức lý thuyết và khả năng ứng dụng thực tế.
+
+Trong quá trình học tập, sinh viên có thể được tạo điều kiện để:
+
+* Học kiến thức nền tảng.
+* Học kiến thức chuyên ngành.
+* Thực hành theo môn học.
+* Thực hiện bài tập và dự án.
+* Làm việc nhóm.
+* Tham gia hoạt động ngoại khóa.
+* Tham gia các chương trình hướng nghiệp.
+* Tiếp cận môi trường doanh nghiệp.
+* Phát triển kỹ năng nghề nghiệp.
+
+Phương pháp và nội dung đào tạo cụ thể phụ thuộc vào từng ngành và chương trình đào tạo.
+
+---
+
+# 4. Các đơn vị đào tạo
+
+Các đơn vị đào tạo của TFT Academy được tổ chức nhằm quản lý chương trình đào tạo và hoạt động chuyên môn.
+
+Danh sách đơn vị đào tạo chính thức:
+
+**CẦN CẬP NHẬT**
+
+Thông tin mỗi đơn vị có thể bao gồm:
+
+* Tên đơn vị.
+* Tên viết tắt.
+* Chức năng.
+* Các ngành phụ trách.
+* Thông tin liên hệ.
+* Website hoặc trang thông tin của đơn vị.
+
+Chatbot không được tự tạo tên khoa, viện hoặc bộ môn nếu chưa có dữ liệu xác nhận.
+
+---
+
+# 5. Các ngành và chương trình đào tạo
+
+TFT Academy tổ chức các chương trình đào tạo thuộc các lĩnh vực khác nhau.
+
+Danh sách ngành đào tạo được quản lý riêng trong hệ thống dữ liệu của chatbot.
+
+Thông tin của mỗi ngành có thể bao gồm:
+
+* Tên ngành.
+* Mã ngành.
+* Tên tiếng Anh.
+* Mô tả ngành.
+* Thời gian đào tạo.
+* Số tín chỉ.
+* Học phí.
+* Chương trình đào tạo.
+* Các học phần chính.
+* Phương pháp giảng dạy.
+* Phương pháp đánh giá.
+* Cơ hội việc làm.
+* Khả năng học tập nâng cao.
+* Điều kiện tốt nghiệp.
+
+Khi thí sinh hỏi về một ngành cụ thể, chatbot cần ưu tiên truy xuất dữ liệu ngành tương ứng thay vì trả lời bằng thông tin chung của nhà trường.
+
+---
+
+# 6. Thông tin ngành đào tạo trong hệ thống chatbot
+
+Dữ liệu ngành học được lưu trữ trong hệ thống MongoDB của chatbot.
+
+Một bản ghi ngành có thể bao gồm:
+
+```text
+Tên ngành
+Mã ngành
+Mô tả ngành
+Học phí
+Cơ hội việc làm
+Khả năng học tập nâng cao
+Chương trình đào tạo
+Phương pháp giảng dạy
+Thời gian đào tạo
+```
+
+Ví dụ dữ liệu ngành:
+
+```text
+Ngành: Công nghệ thông tin
+Mã ngành: 7480201
+Mô tả: Đào tạo kiến thức về công nghệ thông tin và phát triển phần mềm.
+Học phí: Theo dữ liệu học phí được cập nhật trong hệ thống.
+Cơ hội việc làm: Theo dữ liệu cơ hội việc làm của ngành.
+Khả năng học tập nâng cao: Theo thông tin chương trình đào tạo.
+```
+
+**Lưu ý:** Chatbot phải sử dụng dữ liệu ngành hiện có trong MongoDB/Knowledge Base và không tự tạo thông tin chưa được xác nhận.
+
+---
+
+# 7. Các lĩnh vực đào tạo
+
+Các chương trình đào tạo của TFT Academy có thể thuộc nhiều nhóm lĩnh vực khác nhau.
+
+Một số nhóm lĩnh vực có thể bao gồm:
+
+* Công nghệ thông tin.
+* Kinh doanh.
+* Marketing.
+* Truyền thông.
+* Kinh tế.
+* Quản trị.
+* Các lĩnh vực đào tạo khác.
+
+**Danh sách ngành chính thức:** CẦN CẬP NHẬT.
+
+Không sử dụng danh sách lĩnh vực trên để khẳng định TFT Academy chắc chắn đào tạo tất cả các ngành này nếu chưa có dữ liệu ngành tương ứng trong hệ thống.
+
+---
+
+# 8. Môi trường học tập
+
+TFT Academy hướng đến môi trường học tập kết hợp giữa:
+
+* Học tập trên lớp.
+* Thực hành.
+* Làm việc nhóm.
+* Dự án.
+* Hoạt động học thuật.
+* Hoạt động câu lạc bộ.
+* Hoạt động ngoại khóa.
+* Hoạt động hướng nghiệp.
+
+Sinh viên có thể tham gia các hoạt động nhằm phát triển cả kiến thức chuyên môn và kỹ năng cá nhân.
+
+Thông tin cụ thể về cơ sở vật chất và hoạt động sinh viên được quản lý trong các Knowledge Base riêng.
+
+---
+
+# 9. Hoạt động sinh viên
+
+Bên cạnh chương trình học tập, TFT Academy có thể triển khai các hoạt động dành cho sinh viên như:
+
+* Câu lạc bộ.
+* Hoạt động học thuật.
+* Workshop.
+* Hội thảo.
+* Hoạt động thể thao.
+* Hoạt động văn nghệ.
+* Hoạt động tình nguyện.
+* Hoạt động hướng nghiệp.
+* Hoạt động giao lưu.
+* Hoạt động phát triển kỹ năng.
+
+Thông tin về lịch hoạt động cụ thể phải căn cứ vào thông báo được cập nhật trong Knowledge Base.
+
+---
+
+# 10. Cơ sở vật chất
+
+Cơ sở vật chất phục vụ hoạt động học tập và sinh viên có thể bao gồm:
+
+* Phòng học.
+* Phòng thực hành.
+* Phòng máy tính.
+* Thư viện.
+* Không gian học tập nhóm.
+* Khu vực sinh hoạt sinh viên.
+* Khu vực thể thao.
+* Hệ thống công nghệ hỗ trợ học tập.
+
+Thông tin chi tiết về số lượng phòng, thiết bị, địa điểm và tiện ích được quản lý trong Knowledge Base **Cơ sở vật chất**.
+
+---
+
+# 11. Hoạt động hỗ trợ nghề nghiệp
+
+TFT Academy hướng đến việc hỗ trợ sinh viên chuẩn bị cho quá trình thực tập và làm việc sau khi hoàn thành chương trình đào tạo.
+
+Các hoạt động có thể bao gồm:
+
+* Tư vấn nghề nghiệp.
+* Workshop nghề nghiệp.
+* Giao lưu doanh nghiệp.
+* Ngày hội việc làm.
+* Hỗ trợ chuẩn bị CV.
+* Hướng dẫn phỏng vấn.
+* Hoạt động thực tập.
+* Kết nối doanh nghiệp.
+
+Thông tin về doanh nghiệp và vị trí việc làm cụ thể phải được cập nhật theo từng chương trình.
+
+---
+
+# 12. Thông tin tuyển sinh
+
+Thông tin tuyển sinh được quản lý theo từng năm tuyển sinh.
+
+Các nội dung có thể bao gồm:
+
+* Đối tượng tuyển sinh.
+* Phương thức tuyển sinh.
+* Điều kiện đăng ký.
+* Chỉ tiêu.
+* Mã ngành.
+* Hồ sơ đăng ký.
+* Thời gian đăng ký.
+* Học phí.
+* Lệ phí nếu có.
+* Quy trình đăng ký.
+* Thời gian nhập học.
+
+Chatbot phải sử dụng dữ liệu tuyển sinh của đúng năm khi trả lời các câu hỏi có yếu tố thời gian.
+
+Ví dụ:
+
+> "Điểm tuyển sinh năm 2026 là bao nhiêu?"
+
+Chatbot phải truy xuất dữ liệu tuyển sinh **năm 2026**, không sử dụng dữ liệu của năm khác để trả lời như thể đó là thông tin hiện tại.
+
+---
+
+# 13. Thông tin học phí
+
+Thông tin học phí được quản lý theo từng ngành, chương trình và năm học nếu có.
+
+Dữ liệu có thể bao gồm:
+
+* Mức học phí.
+* Đơn vị tính.
+* Học phí theo học kỳ.
+* Học phí theo tín chỉ.
+* Các khoản phí khác.
+* Chính sách học phí nếu có.
+
+Khi trả lời học phí, chatbot phải xác định:
+
+1. Ngành học.
+2. Chương trình.
+3. Năm học/năm tuyển sinh.
+4. Đơn vị tính.
+
+Không được tự lấy mức học phí của một ngành để áp dụng cho ngành khác.
+
+---
+
+# 14. Thông tin học bổng và hỗ trợ sinh viên
+
+TFT Academy có thể triển khai các chính sách hỗ trợ sinh viên tùy theo từng chương trình và từng thời kỳ.
+
+Có thể bao gồm:
+
+* Học bổng.
+* Hỗ trợ học tập.
+* Hỗ trợ sinh viên có hoàn cảnh khó khăn.
+* Các chương trình khuyến khích học tập.
+* Các chính sách hỗ trợ khác.
+
+**Danh sách chính sách chính thức:** CẦN CẬP NHẬT.
+
+Chatbot không được tự tạo mức học bổng hoặc điều kiện nhận học bổng nếu chưa có dữ liệu xác nhận.
+
+---
+
+# 15. Thông tin liên hệ
+
+Thí sinh và sinh viên có thể liên hệ với TFT Academy để được tư vấn và xác nhận thông tin chính thức.
+
+### Thông tin chung
+
+**Địa chỉ:** CẦN CẬP NHẬT
+
+**Số điện thoại:** CẦN CẬP NHẬT
+
+**Email:** CẦN CẬP NHẬT
+
+**Website:** CẦN CẬP NHẬT
+
+### Tư vấn tuyển sinh
+
+**Đơn vị phụ trách:** CẦN CẬP NHẬT
+
+**Hotline:** CẦN CẬP NHẬT
+
+**Email tuyển sinh:** CẦN CẬP NHẬT
+
+**Website tuyển sinh:** CẦN CẬP NHẬT
+
+**Fanpage/kênh thông tin chính thức:** CẦN CẬP NHẬT
+
+---
+
+# 16. Câu hỏi thường gặp
+
+### TFT Academy là gì?
+
+TFT Academy là cơ sở đào tạo hướng đến việc cung cấp môi trường học tập kết hợp kiến thức chuyên môn, thực hành và phát triển kỹ năng cho sinh viên.
+
+### TFT Academy đào tạo những ngành nào?
+
+Danh sách ngành đào tạo được quản lý riêng trong hệ thống dữ liệu. Chatbot cần dựa trên danh sách ngành đã được cập nhật để trả lời.
+
+### TFT Academy ở đâu?
+
+Địa chỉ chính thức của TFT Academy cần được cập nhật trong Knowledge Base. Nếu chưa có dữ liệu, chatbot không được tự suy đoán địa chỉ.
+
+### Làm sao liên hệ TFT Academy?
+
+Thông tin hotline, email và website cần được lấy từ phần thông tin liên hệ chính thức đã được cập nhật trong Knowledge Base.
+
+### TFT Academy có những hoạt động gì cho sinh viên?
+
+Sinh viên có thể tham gia các hoạt động học thuật, câu lạc bộ, thể thao, văn nghệ, tình nguyện, hướng nghiệp và các hoạt động ngoại khóa theo kế hoạch từng thời kỳ.
+
+### TFT Academy có cơ sở vật chất gì?
+
+Thông tin cơ sở vật chất được quản lý trong Knowledge Base riêng, bao gồm phòng học, phòng thực hành, phòng máy, thư viện, khu thể thao và các khu vực hỗ trợ sinh viên.
+
+### TFT Academy có hỗ trợ việc làm không?
+
+Các hoạt động hướng nghiệp có thể bao gồm tư vấn nghề nghiệp, kết nối doanh nghiệp, thực tập, workshop nghề nghiệp và ngày hội việc làm. Thông tin cụ thể phải căn cứ vào chương trình được cập nhật.
+
+---
+
+# 17. Quy tắc trả lời của chatbot
+
+Đối với câu hỏi tổng quan, chatbot có thể sử dụng thông tin trong Knowledge Base này.
+
+Đối với câu hỏi chuyên sâu, chatbot phải chuyển sang Knowledge Base phù hợp:
+
+| Câu hỏi                    | Knowledge ưu tiên     |
+| -------------------------- | --------------------- |
+| Trường có ngành nào?       | Dữ liệu ngành         |
+| Mã ngành là gì?            | Dữ liệu ngành         |
+| Học phí ngành X?           | Dữ liệu ngành/học phí |
+| Điểm tuyển sinh?           | Dữ liệu tuyển sinh    |
+| Hồ sơ cần gì?              | Hồ sơ tuyển sinh      |
+| Điều kiện tốt nghiệp?      | Quy chế đào tạo       |
+| GPA loại Giỏi?             | Quy chế đào tạo       |
+| Có CLB nào?                | CLB sinh viên         |
+| Trường có phòng máy không? | Cơ sở vật chất        |
+| Sắp tới có sự kiện gì?     | Hoạt động sinh viên   |
+| Cơ hội việc làm ngành X?   | Dữ liệu ngành         |
+| Liên hệ tuyển sinh?        | Thông tin liên hệ     |
+
+---
+
+# 18. Nguyên tắc về thông tin chưa được cập nhật
+
+Nếu một thông tin có trạng thái **CẦN CẬP NHẬT**, chatbot không được tự điền thông tin bằng cách suy đoán.
+
+Ví dụ:
+
+Nếu chưa có địa chỉ chính thức, chatbot không được trả lời một địa chỉ bất kỳ.
+
+Nếu chưa có hotline chính thức, chatbot không được tạo số điện thoại.
+
+Nếu chưa có website chính thức, chatbot không được tự tạo URL.
+
+Nếu chưa có danh sách khoa, chatbot không được tự tạo tên khoa.
+
+Trong trường hợp thiếu dữ liệu, chatbot trả lời:
+
+> "Thông tin này hiện chưa được cập nhật trong Knowledge Base của TFT Academy. Bạn vui lòng liên hệ bộ phận tuyển sinh hoặc theo dõi kênh thông tin chính thức của TFT Academy để được xác nhận."
+
+---
+
+# 19. Nguyên tắc về dữ liệu theo thời gian
+
+Các thông tin có thể thay đổi theo từng năm phải được lưu và truy xuất theo thời gian.
+
+Bao gồm:
+
+* Tuyển sinh.
+* Điểm tuyển sinh.
+* Chỉ tiêu.
+* Học phí.
+* Học bổng.
+* Chương trình đào tạo.
+* Quy chế đào tạo.
+* Hoạt động sinh viên.
+* Sự kiện.
+* Thông tin liên hệ.
+* Chính sách hỗ trợ.
+
+Ví dụ:
+
+**Tuyển sinh 2026** và **tuyển sinh 2027** phải được xem là hai bộ dữ liệu khác nhau nếu có sự thay đổi.
+
+Chatbot không được sử dụng dữ liệu cũ để trả lời như thông tin hiện hành.
+
+---
+
+# 20. Trạng thái dữ liệu
+
+**Tên cơ sở đào tạo:** TFT Academy
+
+**Tên tiếng Anh:** TFT Academy
+
+**Nhóm Knowledge:** Thông tin tổng quan về nhà trường
+
+**Mục đích:** Làm dữ liệu nền cho chatbot tuyển sinh và tư vấn sinh viên.
+
+**Ngày cập nhật Knowledge Base:** 28/09/2026
+
+**Trạng thái:** Dữ liệu khung nội bộ.
+
+**Thông tin cần xác nhận trước khi triển khai thực tế:**
+
+* Địa chỉ.
+* Website.
+* Website tuyển sinh.
+* Email.
+* Hotline.
+* Đơn vị tuyển sinh.
+* Các đơn vị đào tạo.
+* Danh sách ngành chính thức.
+* Thông tin chương trình đào tạo.
+* Các chính sách học phí.
+* Học bổng.
+* Các thông tin khác có tính chính thức.
+
+**Nguyên tắc ưu tiên dữ liệu:**
+
+> Văn bản/thông báo chính thức mới nhất → dữ liệu MongoDB đã xác nhận → Knowledge Base đã cập nhật → thông tin tổng quan.
+
+Chatbot không được tự suy đoán hoặc tạo thông tin chính thức chưa có trong dữ liệu.

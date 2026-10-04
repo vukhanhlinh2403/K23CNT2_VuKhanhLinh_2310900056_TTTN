@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* TFT Academy — Color Theme
+   Layout and component dimensions are intentionally unchanged.
+   Palette: violet + magenta + pastel yellow + mint/cyan.
+*/
+:root {
+  --tft-violet: #6d28d9;
+  --tft-magenta: #ec0fb5;
+  --tft-pink: #ff4fb3;
+  --tft-yellow: #ffd66b;
+  --tft-mint: #54e0c1;
+  --tft-cyan: #45d9e8;
+}
+

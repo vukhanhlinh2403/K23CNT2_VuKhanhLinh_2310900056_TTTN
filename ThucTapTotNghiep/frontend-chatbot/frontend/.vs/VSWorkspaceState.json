@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\auth",
+    "\\src\\pages\\dashboard",
+    "\\src\\services",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\vite.config.ts",
+  "PreviewInSolutionExplorer": false
+}

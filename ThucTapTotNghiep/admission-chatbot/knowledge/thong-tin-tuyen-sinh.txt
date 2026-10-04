@@ -1,0 +1,84 @@
+THÔNG TIN TUYỂN SINH
+
+1. Tổng quan
+
+Nhà trường tổ chức tuyển sinh theo kế hoạch tuyển sinh được công bố chính thức từng năm.
+
+Thông tin tuyển sinh có thể thay đổi theo từng năm, vì vậy thí sinh cần kiểm tra thông báo tuyển sinh chính thức của nhà trường.
+
+
+3. Hồ sơ đăng ký xét tuyển
+
+Hồ sơ cần chuẩn bị:
+
+Có thể bao gồm:
+
+- Phiếu đăng ký xét tuyển.
+- Thông tin cá nhân của thí sinh.
+- Kết quả học tập.
+- Giấy tờ tùy thân.
+- Các giấy tờ ưu tiên nếu có.
+- Các giấy tờ khác theo yêu cầu của từng phương thức xét tuyển.
+
+4. Nộp hồ sơ
+
+Thí sinh có thể thực hiện đăng ký hoặc nộp hồ sơ theo hình thức mà nhà trường quy định.
+
+Hình thức nộp hồ sơ:
+online hoặc nộp trực tiếp tại ban tuyển sinh
+
+Địa chỉ nộp hồ sơ:
+
+150/43 Hoàng Mai, Hà Nội
+
+Cổng đăng ký trực tuyến:
+
+https://tftacademy.online/
+
+5. Thời gian tuyển sinh
+
+Thời gian đăng ký:
+
+12-6 đến 12/8/2026
+
+Thời gian nhận hồ sơ:
+
+[CẦN CẬP NHẬT]
+
+Thời gian công bố kết quả:
+
+[CẦN CẬP NHẬT]
+
+6. Đối tượng tuyển sinh
+
+Đối tượng tuyển sinh:
+
+[CẦN CẬP NHẬT]
+
+7. Điều kiện xét tuyển
+
+Điều kiện xét tuyển:
+
+[CẦN CẬP NHẬT]
+
+Điều kiện có thể khác nhau tùy theo phương thức xét tuyển và từng năm tuyển sinh.
+
+8. Điểm chuẩn
+
+Điểm chuẩn được xác định theo từng ngành, từng phương thức và từng năm tuyển sinh.
+
+Dữ liệu điểm chuẩn được quản lý trong cơ sở dữ liệu Admission của hệ thống chatbot.
+
+Chatbot cần ưu tiên sử dụng dữ liệu điểm chuẩn từ cơ sở dữ liệu khi thí sinh hỏi về điểm chuẩn.
+
+9. Học phí
+
+Thông tin học phí của từng ngành được quản lý trong cơ sở dữ liệu ngành học của hệ thống.
+
+Khi thí sinh hỏi học phí của một ngành cụ thể, chatbot ưu tiên sử dụng dữ liệu MongoDB.
+
+10. Lưu ý
+
+Thông tin tuyển sinh có thể thay đổi theo từng năm.
+
+Khi chưa có dữ liệu chính thức trong hệ thống, chatbot không được tự suy đoán hoặc tự tạo ra thông tin tuyển sinh.
